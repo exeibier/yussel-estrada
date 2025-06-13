@@ -18,10 +18,10 @@ const ContactSection = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-            Let's Work Together
+            Let&apos;s Work Together
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Ready to capture your special moments? Get in touch and let's discuss your 
+            Ready to capture your special moments? Get in touch and let&apos;s discuss your 
             photography needs.
           </p>
         </div>
@@ -80,7 +80,7 @@ const ContactSection = () => {
               </h3>
               
               <p className="text-gray-600 mb-8">
-                Send me a message on WhatsApp and I'll get back to you within a few hours.
+                Send me a message on WhatsApp and I&apos;ll get back to you within a few hours.
               </p>
               
               <button
